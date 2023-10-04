@@ -1,0 +1,4 @@
+# Required for Maximum Common Subgraph logic
+numpy==1.21.1
+ipykernel==6.15.1
+matplotlib==3.5.3
