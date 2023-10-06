@@ -2,3 +2,4 @@
 numpy==1.21.1
 ipykernel==6.15.1
 matplotlib==3.5.3
+iecfreduce @ git+https://github.com/dsbrennan/ie-cf-reduction
