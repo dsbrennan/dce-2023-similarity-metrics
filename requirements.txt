@@ -3,3 +3,9 @@ numpy==1.21.1
 ipykernel==6.15.1
 matplotlib==3.5.3
 iecfreduce @ git+https://github.com/dsbrennan/ie-cf-reduction
+# Additional requirements for Graph Matching Network
+dm-sonnet==1.23
+protobuf==3.6.1
+networkx==2.3
+tensorflow==1.14
+six==1.12
